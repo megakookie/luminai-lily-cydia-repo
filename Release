@@ -1,0 +1,20 @@
+Origin: luminailily
+Label: luminailily
+Suite: stable
+Version: 1.0
+Codename: luminailily
+Architectures: iphoneos-arm
+Components: main
+Description: Snag - yt-dlp for iOS 6
+MD5Sum:
+ 00d6c6007a0e42262a8ea8c099ec0204 1060 Packages
+ 2640e352ef09ae3f1f9b24095e64a726 647 Packages.bz2
+ e6bed0e8b19fd99593e28639424df0c6 579 Packages.gz
+SHA1:
+ 70e5e6b3b221ede23c1a7c3b72afac9adb4021f7 1060 Packages
+ b051d524d209071e273ffe2454b97d37d5bf5ce7 647 Packages.bz2
+ a952d83c57639d813a182f9a66081854e748d5b7 579 Packages.gz
+SHA256:
+ c8d50cd61f49d65062a9073103d904fa831d580975ac87f59dda7e7c0b8f5111 1060 Packages
+ b80555c8926d97b67355c29ffcbfd767aac0a4c8d43ae4deb75b808f3497249a 647 Packages.bz2
+ b55e7dafa32ea7aba897c42dbc9a4209851a558aaf515bac4f1f52d4ec4bf6fc 579 Packages.gz

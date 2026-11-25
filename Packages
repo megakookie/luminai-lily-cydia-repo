@@ -1,0 +1,30 @@
+Package: xyz.luminailily.snag.ytdlp
+Name: Snag yt-dlp runtime
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: yt-dlp on the device for the Snag app: Python 3.12, yt-dlp, QuickJS and the Snag server (127.0.0.1:8686).
+Maintainer: luminailily
+Author: luminailily
+Section: Utilities
+Depends: firmware (>= 6.0)
+Installed-Size: 92688
+Filename: debs/snag-ytdlp_1.0.0_iphoneos-arm.deb
+Size: 32907014
+MD5sum: 31488d78a7520bf2e71663196d0c3acb
+SHA1: 0d7aac5c42642c74e06fa5137fd22b114b4de8ee
+SHA256: 9d42984a188eef1e45e516640250946e2cef1db957d091b49cd320f8f8960c16
+
+Package: xyz.luminailily.snag
+Name: Snag
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Download videos and audio with yt-dlp and play them on your iPhone.
+Maintainer: luminailily
+Author: luminailily
+Section: Multimedia
+Depends: firmware (>= 6.0), xyz.luminailily.snag.ytdlp
+Filename: debs/snag_1.0.0_iphoneos-arm.deb
+Size: 45256
+MD5sum: e38fad168345814f73662188230b9cf7
+SHA1: db8a88c3efce4bfec37dfde50a7bf541f3845239
+SHA256: 7953d896e508c02e0a206a2b00fe26f918672b315c98623754cc2c190b22e477
